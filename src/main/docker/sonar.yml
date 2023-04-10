@@ -22,11 +22,11 @@ services:
   db_JH:
     image: postgres:15
     ports:
-      - 5433:5432
+      - 5432:5433
     environment:
       POSTGRES_USER: sonarjhipster
       POSTGRES_PASSWORD: sonarjhipster
-      POSTGRES_DB: sonarjhipsterdb
+      POSTGRES_DB: sonarjhipster
     volumes:
       - ./postgresql:/var/lib/postgresql
       - ./postgresql_data:/var/lib/postgresql/data
