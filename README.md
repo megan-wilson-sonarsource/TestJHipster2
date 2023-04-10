@@ -228,24 +228,24 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [leaflet]: https://leafletjs.com/
 [definitelytyped]: https://definitelytyped.org/
 
-? Which _type_ of application would you like to create? Monolithic application (recommended for simple projects)
-? What is the base name of your application? testjhipster2
-? Do you want to make it reactive with Spring WebFlux? No
-? What is your default Java package name? com.sonar.testjhipster2
-? Which _type_ of authentication would you like to use? JWT authentication (stateless, with a token)
-? Which _type_ of database would you like to use? SQL (H2, PostgreSQL, MySQL, MariaDB, Oracle, MSSQL)
-? Which _production_ database would you like to use? PostgreSQL
-? Which _development_ database would you like to use? H2 with disk-based persistence
-? Which cache do you want to use? (Spring cache abstraction) Ehcache (local cache, for a single node)
-? Do you want to use Hibernate 2nd level cache? Yes
-? Would you like to use Maven or Gradle for building the backend? Maven
-? Do you want to use the JHipster Registry to configure, monitor and scale your application? Yes
-? Which other technologies would you like to use?
-? Which _Framework_ would you like to use for the client? React
-? Do you want to generate the admin UI? Yes
-? Would you like to use a Bootswatch theme (https://bootswatch.com/)? Cyborg
-? Choose a Bootswatch variant navbar theme (https://bootswatch.com/)? Primary
-? Would you like to enable internationalization support? No
-? Please choose the native language of the application English
-? Besides JUnit and Jest, which testing frameworks would you like to use? Cucumber
-? Would you like to install other generators from the JHipster Marketplace? Yes
+- ? Which _type_ of application would you like to create? Monolithic application (recommended for simple projects)
+- ? What is the base name of your application? testjhipster2
+- ? Do you want to make it reactive with Spring WebFlux? No
+- ? What is your default Java package name? com.sonar.testjhipster2
+- ? Which _type_ of authentication would you like to use? JWT authentication (stateless, with a token)
+- ? Which _type_ of database would you like to use? SQL (H2, PostgreSQL, MySQL, MariaDB, Oracle, MSSQL)
+- ? Which _production_ database would you like to use? PostgreSQL
+- ? Which _development_ database would you like to use? H2 with disk-based persistence
+- ? Which cache do you want to use? (Spring cache abstraction) Ehcache (local cache, for a single node)
+- ? Do you want to use Hibernate 2nd level cache? Yes
+- ? Would you like to use Maven or Gradle for building the backend? Maven
+- ? Do you want to use the JHipster Registry to configure, monitor and scale your application? Yes
+- ? Which other technologies would you like to use?
+- ? Which _Framework_ would you like to use for the client? React
+- ? Do you want to generate the admin UI? Yes
+- ? Would you like to use a Bootswatch theme (https://bootswatch.com/)? Cyborg
+- ? Choose a Bootswatch variant navbar theme (https://bootswatch.com/)? Primary
+- ? Would you like to enable internationalization support? No
+- ? Please choose the native language of the application English
+- ? Besides JUnit and Jest, which testing frameworks would you like to use? Cucumber
+- ? Would you like to install other generators from the JHipster Marketplace? Yes
