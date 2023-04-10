@@ -157,3 +157,5 @@ Desktop.ini
 ######################
 /coverage/
 /.nyc_output/
+/src/main/docker/postgresql_data/
+/src/main/docker/sqData/

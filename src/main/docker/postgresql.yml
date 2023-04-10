@@ -2,9 +2,9 @@
 version: '3.8'
 services:
   testjhipster2-postgresql:
-    image: postgres:14.5
-    # volumes:
-    #   - ~/volumes/jhipster/testjhipster2/postgresql/:/var/lib/postgresql/data/
+    image: postgres:15
+    volumes:
+      - ~/volumes/jhipster/testjhipster2/postgresql/:/var/lib/postgresql/data/
     environment:
       - POSTGRES_USER=testjhipster2
       - POSTGRES_PASSWORD=
