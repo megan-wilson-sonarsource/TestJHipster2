@@ -1,7 +1,8 @@
 {
     "java.compile.nullAnalysis.mode": "automatic",
     "sonarlint.connectedMode.project": {
-        "connectionId": "http-localhost-9001-projects",
+        "connectionId": "http-localhost-9001",
         "projectKey": "testjhipster2"
-    }
+    },
+    "sonarlint.trace.server": "off",
 }
