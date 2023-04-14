@@ -165,4 +165,4 @@ Desktop.ini
 # Other
 ######################
 trust.jks
-sonar-project.properties
+keystore.p12
