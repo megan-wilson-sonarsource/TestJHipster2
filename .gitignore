@@ -159,3 +159,10 @@ Desktop.ini
 /.nyc_output/
 /src/main/docker/postgresql_data/
 /src/main/docker/sqData/
+
+
+######################
+# Other
+######################
+trust.jks
+sonar-project.properties
