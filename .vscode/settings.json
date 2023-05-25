@@ -5,4 +5,5 @@
         "projectKey": "testjhipster2"
     },
     "sonarlint.trace.server": "off",
+    "java.configuration.updateBuildConfiguration": "interactive",
 }

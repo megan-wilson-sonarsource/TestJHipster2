@@ -208,6 +208,13 @@
         <dependency>
             <groupId>org.testcontainers</groupId>
             <artifactId>jdbc</artifactId>
+            <version>1.18.0</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.testcontainers</groupId>
+            <artifactId>mockserver</artifactId>
+            <version>1.18.0</version>
             <scope>test</scope>
         </dependency>
         <dependency>
@@ -1092,6 +1099,7 @@
                 <dependency>
                     <groupId>org.testcontainers</groupId>
                     <artifactId>postgresql</artifactId>
+                    <version>1.18.0</version>
                     <scope>test</scope>
                 </dependency>
                 <dependency>
